@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>eu.opencloud.Desktop</id>
+  <id>eu.opencloud.OpenCloudDesktop</id>
   <name>Opencloud Desktop Client</name>
   <project_license>GPL-2.0+</project_license>
   <summary>Sync and collaborate on your desktop or laptop</summary>
@@ -17,7 +17,7 @@ Any file you add, modify or delete in the synced folders on your desktop or lapt
     <category>Network</category>
     <category>Utility</category>
   </categories>
-  <launchable type="desktop-id">eu.opencloud.Desktop</launchable>
+  <launchable type="desktop-id">eu.opencloud.OpenCloudDesktop</launchable>
   <screenshots>
     <screenshot type="default">
       <caption>The options dialog</caption>
